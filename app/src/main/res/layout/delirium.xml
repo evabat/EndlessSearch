@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/delirium_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/delirium" />
+        <TextView
+            android:id="@+id/deliriumText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/delirium_text"
+            android:textColor="@color/fontColorDeliriumText"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/deliriumObjectText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/delirium_object_text"
+            android:textColor="@color/fontColorDeliriumObjectText"
+            android:textSize="19sp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/delirium_obj_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/fishbowl" />
+
+        <TextView
+            android:id="@+id/delirium_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:textAlignment="viewEnd"
+            android:textStyle="bold"
+            android:textColor="@color/fontColorDeliriumObjectText"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

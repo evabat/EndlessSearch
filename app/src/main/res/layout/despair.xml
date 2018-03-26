@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/despair_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/despair" />
+
+        <TextView
+            android:id="@+id/despairText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/despair_text"
+            android:textColor="@color/fontColorDespairText"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/despairObjectText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/despair_object_text"
+            android:textColor="@color/fontColorDespairObjectText"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/despair_obj_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mirror" />
+
+        <TextView
+            android:id="@+id/despair_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:textAlignment="viewEnd"
+            android:textStyle="bold"
+            android:textColor="@color/fontColorDespairObjectText"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

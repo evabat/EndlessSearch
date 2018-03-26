@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/desire_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/desire" />
+        <TextView
+            android:id="@+id/desireText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/desire_text"
+            android:textColor="@color/fontColorDesireText"
+            android:textSize="19sp" />
+
+        <TextView
+            android:id="@+id/desireObjectText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/desire_object_text"
+            android:textColor="@color/fontColorDesireObjectText"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/desire_obj_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/heart" />
+        <TextView
+            android:id="@+id/desire_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:textAlignment="viewEnd"
+            android:textStyle="bold"
+            android:textColor="@color/fontColorDesireObjectText"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

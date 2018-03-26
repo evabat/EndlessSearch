@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1074071231881",
+    "firebase_url": "https://endlesssearch-493f6.firebaseio.com",
+    "project_id": "endlesssearch-493f6",
+    "storage_bucket": "endlesssearch-493f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074071231881:android:80b1cb4fe5b4e74b",
+        "android_client_info": {
+          "package_name": "com.eap.sdy60.ge4.eva_b.endlesssearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074071231881-og5c8ablnf0vbqoitn9ice45vsgi10do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoubAVtDU_wm3euh7yoe_OUIms-wStz-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

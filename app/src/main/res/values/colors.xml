@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8d3fb5</color>
+    <color name="colorPrimaryDark">#59247f</color>
+    <color name="colorAccent">#3a052a</color>
+    <color name="colorStartBtn">#59326d</color>
+    <color name="fontColorStartBtn">#f1e8f9</color>
+    <color name="colorSearchBtn">#d2b9df</color>
+    <color name="fontColorSearchBtn">#392046</color>
+    <color name="colorStartDialogBg">#f6eafc</color>
+    <color name="fontColorStartText">#3a0d24</color>
+    <color name="fontColorDesireText">#840917</color>
+    <color name="fontColorDesireObjectText">#b40619</color>
+    <color name="colorDesireDialogBg">#f4c8cd</color>
+    <color name="fontColorDespairText">#6d6a40</color>
+    <color name="fontColorDespairObjectText">#968c01</color>
+    <color name="colorDespairDialogBg">#f2f1e3</color>
+    <color name="fontColorDestructionText">#bc670d</color>
+    <color name="fontColorDestructionObjectText">#e97a04</color>
+    <color name="colorDestructionDialogBg">#fce2c7</color>
+    <color name="fontColorDeliriumText">#0b8691</color>
+    <color name="fontColorDeliriumObjectText">#00becf</color>
+    <color name="colorDeliriumDialogBg">#d9f9fc</color>
+    <color name="fontColorDreamText">#550863</color>
+    <color name="fontColorDreamObjectText">#a601c4</color>
+    <color name="colorDreamDialogBg">#f8e0fc</color>
+    <color name="fontColorDestinyText">#086633</color>
+    <color name="fontColorDestinyObjectText">#02c25a</color>
+    <color name="colorDestinyDialogBg">#e8f7ef</color>
+    <color name="fontColorDeathText">#87386e</color>
+    <color name="fontColorDeathObjectText">#d20190</color>
+    <color name="colorDeathDialogBg">#f9d1ed</color>
+    <color name="colorEndDialogBg">#c7dcea</color>
+    <color name="fontColorEndText">#295470</color>
+
+</resources>

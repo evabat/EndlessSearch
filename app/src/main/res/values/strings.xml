@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">EndlessSearch</string>
+    <string name="title_activity_maps">EndlessSearch</string>
+    <string name="google_maps_key">AIzaSyD82StA-Rt4ZoKBF5Ml2_JI6vBIWPLV7eA</string>
+    <string name="start_btn_txt">Start a new adventure!</string>
+    <string name="search_btn_txt">Search for a clue!</string>
+    <string name="start_title">Never trust the storyteller. Only trust the story...</string>
+    <string name="start_text">
+        The people in the city seem paper thin in the mist. They believe they are dancing to the music of their lives... But I think, like the puppets, each of us is pulled upon invisible strings, until the night comes and we are put away. I shiver, and hurry from the square, as the darkness of the city closes over me like canal water or the grave.\n I feel the wind flowing through the dim buildings, through my soul. The buildings may be destroyed someday. I may be gone someday. But he wind is endless. It travels to the implacable horizon and it reminds you of your deepest dimensions that you refuse to recognize.\n Are you ready to start seeking the truths that lies beneath the obscure aspects of life?
+    </string>
+    <string name="desire_text">Never a possession, always the possessor, with skin as pale as smoke, and eyes tawny and sharp as yellow wine: Desire is everything you\'ve ever wanted. Whoever you are. Whatever you are. Everything...\n For love is no part of the dreamworld. Love belongs to Desire, and Desire is always cruel.</string>
+    <string name="desire_object_text">You have acquired the heart of Desire.</string>
+    <string name="despair_text">It is said that scattered through Despair\'s domain are a multitude of tiny windows, hanging in the void. Each window looks out onto a different scene, being, in our world, a mirror. Sometimes you will look into a mirror and feel the eyes of Despair upon you, feel her hook catch and snag on your heart. Despair says little, and is patient...\nTo be Despair. It is a portrait. Only close your eyes and feel.</string>
+    <string name="despair_object_text">You have acquired the mirror of Despair.</string>
+    <string name="destruction_text">The prodigal son. He is the embodiment of destruction itself, the greatest instrument of change, fulfilling his purpose to destroy in order that new things may be created. When Destruction saw the mind of man turn toward science, he foresaw the inevitable use of science as a tool for destruction on a planetary (and perhaps universal) scale. Not wanting to be responsible for such massive devastation, perhaps obliteration, he abandoned his realm and his responsibilities, letting man become the instrument of his own destruction.</string>
+    <string name="destruction_object_text">You have acquired the sword of Destruction.</string>
+    <string name="delirium_text">Delirium was once Delight. And although that was long ago now, even today her eyes are badly matched; one eye is a vivid emerald green, spattered with silver flecks that move; her other eye is vein blue. Who knows what Delirium sees, through her mismatched eyes?\n \" I think you\'re very nice. I think twinkle\'s a nice word. So\'s viriden. I met a lady once who had an imaginary fish.\"\nIt was then that Delirium noticed that she had absent-mindedly transformed into a hundred and eleven perfect, tiny multicoloured fish. Each fish sang a different song.</string>
+    <string name="delirium_object_text">You have acquired the fishbowl of Delirium (who once was Delight).</string>
+    <string name="dream_text">People think dreams aren\'t real just because they aren\'t made of matter, of particles. Dreams are real. But they are made of viewpoints, of images, of memories and puns and lost hopes.\nWhat power would hell have if those imprisoned there could not dream of heaven?\nBut you wil not understand the price. Mortals never do. You only see the prize, your heart\'s desire, your dream... But the price of getting what you want, is getting what you once wanted.</string>
+    <string name="dream_object_text">You have acquired the mask of Dream.</string>
+    <string name="destiny_text">Destiny is the oldest of the Endless; in the beginning was the Word, and it was traced by hand on the first page of his book, before ever it was spoken aloud... He smells of dust and the libraries of night. He leaves no footprints. He casts no shadow.\nHe walks perpetually in his garden. The paths fork and divide. With each step you take through Destiny\'s Garden you make a choice; and every choice determines future paths. However, at the end of a lifetime of walking you might look back, and see only one path stretching out behind you; or look ahead, and see only darkness.</string>
+    <string name="destiny_object_text">You have acquired the book of Destiny.</string>
+    <string name="death_text">You get what anyone gets; you get a life time. And it always ends. That\'s what gives it value. For some folks death is release, and for others death is an abomination, a terrible thing. But in the end, she\'s there for all of them.\nOne day in every century, Death takes on mortal flesh, better to comprehend what the lives she takes must feel like, to taste the bitter tang of mortality: And this is the price she must pay for being the divider of the living from all that has gone before, all that must come after.</string>
+    <string name="death_object_text">You have acquired the ankh of Death.</string>
+    <string name="end_title">Are we human because we gaze at the stars?</string>
+    <string name="end_text">...Or do we gaze at the stars because we are human? Things need not have happened to be true. Tales and adventures are the shadow truths that will endure when mere facts are dust and ashes and forgotten. You have reached the end of the road, but you know that no power in the universe can destroy the path that leads to the Endless. They are the servants of the living - they are NOT our masters. The Endless exist because we, humans, we know deep in our hearts, that they exist... You have felt their presence long before your current findings. After all in the end, you will spend time in each of them - you will dream, despair, desire, destroy, delight and otherwise, and, eventually, die - but everything starts and ends within the path where destiny walks perpetually.\nYou have gathered all of their sigils, but more is yet to come...</string>
+    <string name="desire_descr">Desire</string>
+    <string name="desire_obj_descr">Desire\'s heart of glass.</string>
+    <string name="despair_descr">Despair</string>
+    <string name="despair_obj_descr">Despair\'s broken hand mirror.</string>
+    <string name="destruction_descr">Destruction</string>
+    <string name="destruction_obj_descr">Destruction\'s sword.</string>
+    <string name="delirium_descr">Delirium</string>
+    <string name="delirium_obj_descr">Delirium\'s fishbowl.</string>
+    <string name="dream_descr">Dream</string>
+    <string name="dream_obj_descr">Dream\'s mask.</string>
+    <string name="destiny_descr">Destiny</string>
+    <string name="destiny_obj_descr">Destiny\'s book.</string>
+    <string name="death_descr">Death</string>
+    <string name="death_obj_descr">Death\'s ankh.</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/dream" />
+        <TextView
+            android:id="@+id/dreamText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/dream_text"
+            android:textColor="@color/fontColorDreamText"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/dreamObjectText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:background="#ffffff"
+            android:text="@string/dream_object_text"
+            android:textColor="@color/fontColorDreamObjectText"
+            android:textSize="26sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/dream_obj_descr"
+            android:padding="15dp"
+            android:background="#ffffff"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mask" />
+
+        <TextView
+            android:id="@+id/dream_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="15dp"
+            android:textAlignment="viewEnd"
+            android:textStyle="bold"
+            android:textColor="@color/fontColorDreamObjectText"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>
